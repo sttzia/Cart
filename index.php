@@ -1,5 +1,5 @@
 <?php
-// connection to database
+// connection to database named cart
   session_start();
   $connect = mysqli_connect('localhost','root','','cart');
 
